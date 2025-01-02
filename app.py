@@ -55,7 +55,7 @@ try:
 
         # Résultats de la régression
         st.header("Résultats de la Régression")
-        st.write("### Calcul manuel")<
+        st.write("### Calcul manuel")
         st.write(f"- Slope (b1): {b1}")
         st.write(f"- Intercept (b0): {b0}")
         st.write(f"- MSE: {mse_manual}")
